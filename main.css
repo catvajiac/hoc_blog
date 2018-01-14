@@ -1,0 +1,61 @@
+body {
+  background-color: #252525;
+  color: #FFFFFF;
+  font-family: raleway;
+}
+
+.blog_post > h3, p {
+  background-color: #353535;
+  padding: 1.5em;
+  width: 90%;
+  margin: auto;
+}
+
+#banner {
+  position: relative;
+  width: 100%;
+}
+
+#banner > img {
+  display: block;
+  margin: auto;
+}
+
+#banner > h1, h2 {
+  position: absolute;
+   top: 0px; 
+   width: 100%; 
+  text-align: center;
+  font-family: VT323;
+  color: #00a800;
+  text-shadow: -1px 0px black, 0px 1px black,
+                2px 2px black, 0px -1px black;
+}
+
+#banner > h2 {
+   top: 30px; 
+}
+
+/* currently not in use */
+.input_box {
+  color: #FFFFFF;
+  background-color: #353535;
+  border-color: #000000;
+}
+
+#blogpost {
+  display: block;
+}
+
+#blogtitle {
+  text-align: center;
+}
+
+#blog_edit {
+  width: 100%;
+}
+
+#blog_edit > input, textarea, button {
+  display: block;
+  margin: 0.5em auto;
+}
