@@ -4,7 +4,7 @@ body {
   font-family: raleway;
 }
 
-.blog_post > h3, p {
+.blog_post > :not(h3) {
   background-color: #353535;
   padding: 1.5em;
   width: 90%;
@@ -34,28 +34,4 @@ body {
 
 #banner > h2 {
    top: 30px; 
-}
-
-/* currently not in use */
-.input_box {
-  color: #FFFFFF;
-  background-color: #353535;
-  border-color: #000000;
-}
-
-#blogpost {
-  display: block;
-}
-
-#blogtitle {
-  text-align: center;
-}
-
-#blog_edit {
-  width: 100%;
-}
-
-#blog_edit > input, textarea, button {
-  display: block;
-  margin: 0.5em auto;
 }

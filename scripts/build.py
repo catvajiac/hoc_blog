@@ -19,9 +19,11 @@ if __name__ == "__main__":
   
     name, ext = file.split(".")
 
+    print("<div class=blog_post>")
     with open("../pages/{}".format(file), 'r') as fread:
       for line in fread:
         print(markdown.markdown(line))
+    print("</div>")
 
     print("</body>\n")
     print("</html>")
