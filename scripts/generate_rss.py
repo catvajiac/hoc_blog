@@ -28,7 +28,7 @@ for post in os.listdir(POSTS_DIR):
 
   entry_id = name[-2:]
   articles_json[entry_id] = {
-    'author'    : '@' + 'cvajiac',
+    'author'    : 'cvajiac',
     'title'     : name,
     'link'      : PLANET_URL
   }
