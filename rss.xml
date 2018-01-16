@@ -1,0 +1,15 @@
+<rss version="2.0">
+<channel>
+<title>hoc_blog</title>
+<link>https://catvajiac.github.io/hoc_blog/</link>
+<description>
+articles for history of computing
+</description>
+<item>
+<title>reading00</title>
+<author>@cvajiac</author>
+<link>https://catvajiac.github.io/hoc_blog/</link>
+<guid>00</guid>
+</item>
+</channel>
+</rss>
