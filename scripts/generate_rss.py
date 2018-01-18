@@ -30,7 +30,7 @@ for post in os.listdir(POSTS_DIR):
   articles_json[entry_id] = {
     'author'    : 'cvajiac',
     'title'     : name,
-    'link'      : PLANET_URL
+    'link'      : "{}#{}".format(PLANET_URL, entry_id)
   }
 
 

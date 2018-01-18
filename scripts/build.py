@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-import markdown
+#import markdown
+import pypandoc
 import os
-import pygments
 
 if __name__ == "__main__":
   posts = "../pages"
@@ -18,11 +18,11 @@ if __name__ == "__main__":
       continue
   
     name, ext = file.split(".")
+    entry = name[-2:]
 
-    print("<div class=blog_post>")
-    with open("../pages/{}".format(file), 'r') as fread:
-      for line in fread:
-        print(markdown.markdown(line))
+    print("<div class=blog_post id=#{}>".format(entry))
+    print("<h3>{}</h3>".format(name).title())
+    print(pypandoc.convert_file("../pages/{}".format(file), 'html'))
     print("</div>")
 
     print("</body>\n")
