@@ -5,7 +5,7 @@ Brookhaven National Lab. Did he intend to kickstart a revolution, to start the
 game industry? Nah. When he realized what he'd done, he probably felt like he
 created something a little like this... [^1]
 
-![](img/explosion.gif)
+![](https://github.com/catvajiac/hoc_blog/blob/master/img/explosion.gif?raw=1)
 
 Sometimes, unintended consequences make for the best stories. This is one of
 those times.
@@ -20,7 +20,7 @@ History of Computing classes, could you imagine? Something else amazing
 Spacewar! did was getting you to feel frustration like you never felt
 before [^4].
 
-![](img/angry_german_kid.gif)
+![](https://github.com/catvajiac/hoc_blog/blob/master/img/angry_german_kid.gif?raw=1)
 
 Spacewar! might have been more popular in the 1960's and 1970's if there was a
 way for most people to play it. Unfortunately, it was mostly engineering
