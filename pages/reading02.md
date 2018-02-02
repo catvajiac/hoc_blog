@@ -91,7 +91,7 @@ a gamer. This is sad. Rant over for now.
 [^4]: this class is hard, alright, I'm trying to stay afloat by playing loads
 of games. It's already week 3, and it's a stressful time of year...
 
-[^5]: No frogs were hurt in the playing of this game
+[^5]: no frogs were hurt in the playing of this game
 
 [^6]: totally legitimate claim, alright? Anyone who disagrees is spewing
 \#fakenews
@@ -99,7 +99,7 @@ of games. It's already week 3, and it's a stressful time of year...
 [^7]: though, are we ever done researching? I might have to go back and run
 some more experiments...
 
-[^8]: tfw you realize you're wearing a flannel and listening to my record of
+[^8]: tfw you realize you're wearing a flannel and listening to your record of
 Dark Side of the Moon...
 
 [^9]: before you scoff and run off to play black ops, just remember that it
