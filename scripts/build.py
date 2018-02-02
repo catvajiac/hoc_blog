@@ -13,7 +13,7 @@ if __name__ == "__main__":
       line = fread.readline().strip()
 
   # append blogposts
-  for file in os.listdir(posts):
+  for file in sorted(os.listdir(posts), reverse=True):
     if file[-3:] != ".md":
       continue
   
