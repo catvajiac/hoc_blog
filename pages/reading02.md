@@ -1,7 +1,3 @@
-What makes the games of the golden age so memorable? Is it just nostalgia or
-are there timeless lessons to learned from the classics? How do they stand up
-to modern games?
-
 Ah...the golden age. Back in the days when everybody walked uphill both ways to
 school, we didn't have fancy, new-fangled things like phones, the internet, or
 git, and things were overall just simpler...especially games. But even if
