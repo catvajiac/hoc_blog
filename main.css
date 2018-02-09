@@ -4,6 +4,10 @@ body {
   font-family: raleway;
 }
 
+a {
+  color: #00a800
+}
+
 .blog_post > :not(h3) {
   background-color: #353535;
   padding: 1.5em;
