@@ -8,6 +8,10 @@ a {
   color: #00a800
 }
 
+img {
+  height: 400px;
+}
+
 .blog_post > :not(h3) {
   background-color: #353535;
   padding: 1.5em;
@@ -34,6 +38,7 @@ a {
 #banner > img {
   display: block;
   margin: auto;
+  height: auto;
 }
 
 #banner > h1, h2 {
