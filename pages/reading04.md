@@ -12,7 +12,17 @@ the driver's seat [^2]. We all were aggressively competitive while playing
 Super Smash Bros, and some of my fondest memories come from that time. I also
 played a lot of Ocarina of Time in those days. But apart from the nostalgia, I
 liked the controller alot. In fact, my favorite controllers have been Nintendo
-ones (I really enjoyed the SNES controller as well).
+ones (I really enjoyed the SNES controller as well). I have some pictures of us
+playing on Gameboys back then, which are super relevant...
+
+![](https://github.com/catvajiac/hoc_blog/blob/mater/img/rv-1.jpg)
+
+And this one too...
+
+![](https://github.com/catvajiac/hoc_blog/blob/mater/img/rv-2.jpg)
+
+
+Wow, we used to be little. I miss those days...
 
 What I really liked about Nintendo consoles in general growing up was the
 games. I felt like they were really approachable; most of my closest friends
