@@ -15,11 +15,11 @@ liked the controller alot. In fact, my favorite controllers have been Nintendo
 ones (I really enjoyed the SNES controller as well). I have some pictures of us
 playing on Gameboys back then, which are super relevant...
 
-![](https://github.com/catvajiac/hoc_blog/blob/mater/img/rv-1.jpg)
+![](https://github.com/catvajiac/hoc_blog/blob/master/img/rv-1.jpg)
 
 And this one too...
 
-![](https://github.com/catvajiac/hoc_blog/blob/mater/img/rv-2.jpg)
+![](https://github.com/catvajiac/hoc_blog/blob/master/img/rv-2.jpg)
 
 
 Wow, we used to be little. I miss those days...
