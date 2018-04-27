@@ -8,11 +8,11 @@ I like eSports.
 I am not a regular spectator, but I went to NA LCS in LA over the summer [^1].
 Here's some cool pics of me with my *cool* UCLA friends from that day:
 
-![](https://github.com/catvajiac/hoc_blog/blob/master/img/c9.jpg)
+![](https://github.com/catvajiac/hoc_blog/blob/master/img/c9.jpg?raw=1)
 
 Us with C9
 
-![](https://github.com/catvajiac/hoc_blog/blob/master/img/immortals.jpg)
+![](https://github.com/catvajiac/hoc_blog/blob/master/img/immortals.jpg?raw=1)
 
 Us with Immortals
 
